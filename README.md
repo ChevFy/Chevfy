@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is NANTAPONG PONGTUMRONGSAK
+![](https://i.pinimg.com/originals/f5/e9/a0/f5e9a008b15a76eab6f9756417f20127.gif)I'm Chevfy!!!![](https://i.pinimg.com/originals/f5/e9/a0/f5e9a008b15a76eab6f9756417f20127.gif)
 ================================================================================================================================================
 
 I'm Chevfy, I study Computer Engineering at KMITL .
 
 * 🌍  I'm based in PAI
-* ✉️  You can contact me at [koonchevychpai123@gmail.com](mailto:koonchevychpai123@gmail.com)
-* 🧠  I'm learning Machine-Learning and Deep-Learning
+* ✉️  [koonchevychpai123@gmail.com](mailto:koonchevychpai123@gmail.com)
+* 🧠  NOW I'm interesting in Machine-Learning and Deep-Learning
 * ⚡  "สติมาโปรแกรมเกิด สติเตลิด error กระจาย"
 
 ### Skills
