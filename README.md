@@ -5,7 +5,7 @@ I'm Chevfy, I study Computer Engineering at KMITL .
 
 * 🌍  I'm COMPUTER ENGINEERING AT KMITL
 * ✉️  [koonchevychpai123@gmail.com](mailto:koonchevychpai123@gmail.com)
-* 🧠  NOW I'm interesting in Machine-Learning and Computer-Vision
+* 🧠  NOW I'm interesting in Machine-Learning 
 * ⚡  "สติมาโปรแกรมเกิด สติเตลิด error กระจาย"
 
 
