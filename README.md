@@ -25,17 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChevFy&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChevFy&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🌎 Connect with Me
 <p align="center">
   <a href="https://github.com/ChevFy" target="_blank">
@@ -51,14 +40,7 @@
 
 ---
 
-### 🎶 Now Playing
+### 💡 Dev Quote
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChevFy&theme=radical&no-frame=true&column=4" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
