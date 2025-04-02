@@ -19,8 +19,16 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,arduino,figma,ps,pr,vscode,pandas,numpy,matplotlib,seaborn" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,arduino,figma,ps,pr,vscode" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C9A2A?style=for-the-badge&logo=seaborn&logoColor=white" />
+</p>
+
 
 ---
 
