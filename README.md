@@ -5,14 +5,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16E2F2&center=true&vCenter=true&width=500&lines=Computer+Engineering+at+KMITL;Mobile+Development;Coding+%7C+Mobile+%7C+AI+%7C+Tech+Stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16E2F2&center=true&vCenter=true&width=500&lines=Computer+Engineering+at+KMITL;;Coding+%7C+Data+%7C+AI+%7C+Tech+Stuff" />
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🖥 **Computer Engineering** at **KMITL**
-- 🎯 Currently exploring **Mobile Development , DiscordJS and Networking**
+- 🎯 Currently exploring **Machine learning , Networking**
 - ⚡ *"สติมาโปรแกรมเกิด สติเตลิด error กระจาย"*
 
 ---
