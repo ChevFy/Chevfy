@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 - 🖥 **Computer Engineering** at **KMITL**
-- 🎯 Currently exploring **Machine learning , Networking**
+- 🎯 Currently exploring **Machine learning **
 - ⚡ *"สติมาโปรแกรมเกิด สติเตลิด error กระจาย"*
 
 ---
