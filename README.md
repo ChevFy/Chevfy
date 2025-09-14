@@ -5,30 +5,23 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16E2F2&center=true&vCenter=true&width=500&lines=Computer+Engineering+at+KMITL;;Coding+%7C+Data+%7C+AI+%7C+Tech+Stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16E2F2&center=true&vCenter=true&width=500&lines=Computer+Engineering+at+KMITL;;Low-level+Programming+%7C+C+%7C+Rust" />
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🖥 **Computer Engineering** at **KMITL**
-- 🎯 Currently exploring **Machine learning **
+- ⚙️ Interested in **Low-level Programming, System Programming**
+- 🦀 Currently learning **Rust**
 - ⚡ *"สติมาโปรแกรมเกิด สติเตลิด error กระจาย"*
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,arduino,figma,ps,pr,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js,html,css,arduino,figma,ps,pr,vscode" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C9A2A?style=for-the-badge&logo=seaborn&logoColor=white" />
-</p>
-
 
 ---
 
