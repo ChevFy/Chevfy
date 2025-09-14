@@ -12,6 +12,7 @@
 
 ### 🚀 About Me
 - 🖥 **Computer Engineering** at **KMITL**
+- 🎓 **CADET at 42Bangkok**
 - ⚙️ Interested in **Low-level Programming, System Programming**
 - 🦀 Currently learning **Rust**
 - ⚡ *"สติมาโปรแกรมเกิด สติเตลิด error กระจาย"*
