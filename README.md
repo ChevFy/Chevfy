@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16E2F2&center=true&vCenter=true&width=500&lines=Computer+Engineering+at+KMITL;;Low-level+Programming+%7C+C+%7C+Rust" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16E2F2&center=true&vCenter=true&width=500&lines=Computer+Engineering+at+KMITL;" />
 </p>
 
 ---
@@ -13,8 +13,6 @@
 ### 🚀 About Me
 - 🖥 **Computer Engineering** at **KMITL**
 - 🎓 **CADET at 42Bangkok**
-- ⚙️ Interested in **Low-level Programming, System Programming**
-- 🦀 Currently learning **Rust**
 - ⚡ *"สติมาโปรแกรมเกิด สติเตลิด error กระจาย"*
 
 ---
