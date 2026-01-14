@@ -12,6 +12,7 @@
 
 ### 🚀 About Me
 - 🖥 **Computer Engineering** at **KMITL**
+- จับฉ่าย Developer 
 - 🎓 **CADET at 42Bangkok**
 - ⚡ *"สติมาโปรแกรมเกิด สติเตลิด error กระจาย"*
 
@@ -19,7 +20,10 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,rust,python,js,html,css,arduino,figma,ps,pr,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cs,python,js,html,css,bash,arduino" /><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,bootstrap,nodejs,express,fastapi,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr,vscode" />
 </p>
 
 ---
