@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 - 🖥 **Computer Engineering** at **KMITL**
-- จับฉ่าย Developer 
+- จับฉ่าย Developer (เป็ดทุกอย่าง)
 - 🎓 **CADET at 42Bangkok**
 - ⚡ *"สติมาโปรแกรมเกิด สติเตลิด error กระจาย"*
 
