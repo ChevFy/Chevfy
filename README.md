@@ -20,9 +20,10 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,js,html,css,bash,arduino" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cs,python,go,js,html,css,bash,arduino" /><br>
   <img src="https://skillicons.dev/icons?i=dotnet,react,bootstrap,nodejs,express,fastapi,docker" /><br>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat" /><br>
   <img src="https://skillicons.dev/icons?i=figma,ps,pr,vscode" />
 </p>
 
