@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Full-Stack+Duck+Developer;CADET+at+42Bangkok" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Embedded+Full-Stack+Duck+Developer;I+love+C" />
 </p>
 
 <p align="center">
@@ -22,32 +22,35 @@
 -  **Education:** Computer Engineering at **KMITL** , Cadet at **42Bangkok**
 -  **Philosophy:** จับฉ่าย Developer
 -  **Quote:** *"สติมาโปรแกรมเกิด สติเตลิด error กระจาย"*
-
+-  Embedded System Laboratory Member @ **CE KMITL**
 ---
 
 ### 🛠 Tech Stack
 
 #### 🌐 Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,js,bash,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cs,python,go,ts,bash" />
 </p>
 
 #### 🧪 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,next,tailwind,bootstrap,nodejs,express,fastapi" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,next,tailwind,nodejs,express,nestjs,fastapi" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mcp,langchain" " />
 </p>
 
 #### 📊 Data & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy" />
 </p>
 
 #### 🐧 Infrastructure & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,arduino,figma,vscode,postman,linux,ubuntu" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fedora,claude,cursor" />
+  <img src="https://skillicons.dev/icons?i=docker,arduino,linux,ubuntu" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fedora,macos,claude" /><br/>
+    <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/UART_SPI_I2C-00D1FF?style=flat-square" />
 </p>
 
 
